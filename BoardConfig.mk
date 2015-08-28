@@ -5,6 +5,7 @@ TARGET_NO_BOOTLOADER := true
 # Platform
 TARGET_BOARD_PLATFORM := msm8916
 TARGET_BOARD_PLATFORM_GPU := qcom-adreno306
+TARGET_PLATFORM_DEVICE_BASE := /devices/soc.0/
 
 # Architecture
 #TARGET_ARCH := arm
