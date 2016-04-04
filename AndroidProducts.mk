@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_r7plusf.mk
+    $(LOCAL_DIR)/omni_f1f.mk

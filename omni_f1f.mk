@@ -30,13 +30,13 @@ PRODUCT_PACKAGES += \
     charger_res_images \
     charger
 
-PRODUCT_NAME := omni_r7plusf
-PRODUCT_DEVICE := r7plusf
+PRODUCT_NAME := omni_f1f
+PRODUCT_DEVICE := f1f
 PRODUCT_BRAND := Oppo
-PRODUCT_MODEL := R7f
+PRODUCT_MODEL := F1f
 PRODUCT_MANUFACTURER := Oppo
 
 # Kernel inline build
-#TARGET_KERNEL_CONFIG := r7plusf_defconfig
-#TARGET_VARIANT_CONFIG := r7plusf_defconfig
-#TARGET_SELINUX_CONFIG := r7plusf_defconfig
+#TARGET_KERNEL_CONFIG := f1f_defconfig
+#TARGET_VARIANT_CONFIG := f1f_defconfig
+#TARGET_SELINUX_CONFIG := f1f_defconfig
